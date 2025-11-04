@@ -20,15 +20,16 @@ const Hero = () => {
       <div className="relative z-10 mx-auto flex min-h-screen max-w-6xl flex-col items-start justify-center px-6">
         <p className="mb-4 inline-flex items-center gap-2 rounded-full bg-white/10 px-4 py-1 text-sm backdrop-blur">
           <span className="h-2 w-2 animate-pulse rounded-full bg-emerald-400" />
-          Available for freelance & collabs
+          Gideon Miracle Sihombing · Jakarta State University
         </p>
         <h1 className="text-5xl font-semibold leading-tight tracking-tight md:text-7xl">
-          Chill, modern, and playful.
+          Full‑Stack Developer & AI Enthusiast
           <br />
-          I craft digital experiences.
+          crafting calm, modern experiences.
         </h1>
         <p className="mt-6 max-w-2xl text-lg text-slate-300">
-          Designer-developer hybrid focused on delightful interfaces, smooth interactions, and clean code.
+          I’m a college student at Jakarta State University, interested in full‑stack development and AI analysis. I love
+          shipping thoughtful interfaces, smooth interactions, and clean, maintainable code.
         </p>
         <div className="mt-8 flex flex-wrap gap-3">
           <a
@@ -38,10 +39,10 @@ const Hero = () => {
             See Projects
           </a>
           <a
-            href="#about"
+            href="#skills"
             className="rounded-full border border-white/20 bg-white/5 px-6 py-3 font-medium text-white transition hover:bg-white/10"
           >
-            About Me
+            Skills
           </a>
         </div>
       </div>
